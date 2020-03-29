@@ -1,0 +1,2 @@
+# gjn
+for study git
